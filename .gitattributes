@@ -1,0 +1,2 @@
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+1080p.tar.gz filter=lfs diff=lfs merge=lfs -text
